@@ -15,28 +15,28 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={logo} alt="gpt3_logo" />
-        <p>GTP-3 <br /> All Rights Reserved</p>
+        <p>GTP-3 <br />Todos los derechos reservados</p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4> Soluciones</h4>
-        <p>Application modernization</p>
-        <p>Social Media</p>
-        <p>Smart analytics</p>
+        <p>Asesoramiento</p>
+        <p>Media</p>
+        <p>Metricas</p>
         <p>Seguridad</p>
 
      
       </div>
       <div className="gpt3__footer-links_div">
-        <h4>Company</h4>
-        <p>Terms & Conditions </p>
-        <p>Privacy Policy</p>
-        <p>Contact</p>
+        <h4>Compañia</h4>
+        <p>Terminos y condiciones</p>
+        <p>Politica de privacidad</p>
+        <p>Contacto</p>
       </div>
       <div className="gpt3__footer-links_div">
-        <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@gtp-3.com</p>
+        <h4>¿Interesado?</h4>
+        <p>Coronel Diaz 2121, Buenos Aires, Argentina</p>
+        <p>011-111132567</p>
+        <p>info@gtp-3.com.ar</p>
       </div>
     </div>
 

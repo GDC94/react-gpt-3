@@ -4,11 +4,11 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Natural Language',
+    title: 'Lenguaje natural',
     text: 'Extrae información valiosa de textos sin estructurar con el aprendizaje automático de GTP-3.',
   },
   {
-    title: 'Text‑to‑Speech',
+    title: 'Texto por voz',
     text: 'Convierte texto en voz que suena natural con una API basada en IA.',
   },
   {
@@ -16,8 +16,8 @@ const featuresData = [
     text: 'Nuestra nueva plataforma unificada de aprendizaje automático te ayudará a crear, desplegar y escalar modelos de IA más eficaces.',
   },
   {
-    title: 'Agent Assist',
-    text: 'Proporciona a los agentes humanos asistencia continuada durante las llamadas para ayudarles a determinar las necesidades de los clientes y facilitarles instrucciones detalladas en tiempo real..',
+    title: 'Asistencia',
+    text: 'Proporciona asistencia continuada durante las llamadas para ayudarles a determinar las necesidades de los clientes y facilitarles instrucciones detalladas en tiempo real',
   },
 ];
 
