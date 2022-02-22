@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gpt-3/static/css/main.cc476517.css",
+    "main.js": "/react-gpt-3/static/js/main.9f9aad42.js",
+    "static/media/brain.png": "/react-gpt-3/static/media/brain.8f7e6797d708a273757c.png",
+    "static/media/posibility.png": "/react-gpt-3/static/media/posibility.4c7437e31225138488b8.png",
+    "static/media/blog01.png": "/react-gpt-3/static/media/blog01.a725137bb9921e281134.png",
+    "static/media/blog03.png": "/react-gpt-3/static/media/blog03.05595e887231036e6b55.png",
+    "static/media/blog04.png": "/react-gpt-3/static/media/blog04.92f689611791adb11965.png",
+    "static/media/blog05.png": "/react-gpt-3/static/media/blog05.97c9a7beb44b197a2757.png",
+    "static/media/blog02.png": "/react-gpt-3/static/media/blog02.e01df57d2504388d6cc1.png",
+    "static/media/Illustration.png": "/react-gpt-3/static/media/Illustration.da6eb0870c7a131ee043.png",
+    "static/media/testimonials.png": "/react-gpt-3/static/media/testimonials.82849c109137b99293b3.png",
+    "static/media/dropbox.png": "/react-gpt-3/static/media/dropbox.963afafa06ebe7e07a4a.png",
+    "static/media/atlassian.png": "/react-gpt-3/static/media/atlassian.2c4a739ae3b0c7ccb428.png",
+    "static/media/GPT-3.svg": "/react-gpt-3/static/media/GPT-3.cf6810c94fbac0cc653f939ff5723cf4.svg",
+    "index.html": "/react-gpt-3/index.html",
+    "main.cc476517.css.map": "/react-gpt-3/static/css/main.cc476517.css.map",
+    "main.9f9aad42.js.map": "/react-gpt-3/static/js/main.9f9aad42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc476517.css",
+    "static/js/main.9f9aad42.js"
+  ]
+}
